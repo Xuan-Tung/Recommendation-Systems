@@ -2,9 +2,9 @@
 
 ## Hệ thống recommendation là gì ?
 
-  *Hệ thống Recommendation là một hệ thống gồm người dùng và các items, hệ thống sư dụng các thuậ toán machine learning phân tích dữ liệu mua sắm/lựa chọn của người dùng để thực hiện giới thiệu cho người dùng những items mà họ có thể thích từ đó nâng cao hiệu quả của việc maketing
+  * Hệ thống Recommendation là một hệ thống gồm người dùng và các items, hệ thống sư dụng các thuậ toán machine learning phân tích dữ liệu mua sắm/lựa chọn của người dùng để thực hiện giới thiệu cho người dùng những items mà họ có thể thích từ đó nâng cao hiệu quả của việc maketing
   
-  *Hệ thống RS chỉ phù hợp với sự bùng nổ của các của hàng thương mại điện tử khi việc trình diễn các item là vô tận và linh hoạt
+  * Hệ thống RS chỉ phù hợp với sự bùng nổ của các của hàng thương mại điện tử khi việc trình diễn các item là vô tận và linh hoạt
   
 ## Phân loại hệ thống gợi ý
 Gồm hai loại là Content-based systems và Collaborative filtering
@@ -14,7 +14,6 @@ Gồm hai loại là Content-based systems và Collaborative filtering
     * Ưu điêm của hệ thống kiểu này đó là nó 
   
   
- *
-
+ * Collaborative filtering là hệ thống dựa vào sự tương đồng của người dùng và hoặc items. Ví dụ khi A, B và C cùng thích bài hát của Sơn Tùng, trong đó B và C cũng thích bài hát của Bích Phương vậy hệ thống sẽ tiến hành recommnend bài hát cua Bích Phương cho A
 
 
